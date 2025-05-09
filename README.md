@@ -1,2 +1,3 @@
 # first
-this is first Git Repository
+this is first Git Repository.
+Author --Sai Ujwal
